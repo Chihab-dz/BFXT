@@ -26,3 +26,4 @@ async def tax(ctx, total: float):
 
 # تشغيل البوت باستخدام التوكن
 bot.run("Y_8MUHbWzgWUqEyX28YDU-5KmtwChIMf")
+node index.js
